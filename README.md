@@ -26,7 +26,9 @@
 
 ## 📫 Let's Connect
 - 📧 [logeshmadhan963@gmail.com](mailto:logeshmadhan963@gmail.com)
-- 💼 [LinkedIn: Logesh Madhan](https://www.linkedin.com/in/logeshmadhan)
+- 💼 [LinkedIn: Logesh Madhan](www.linkedin.com/in/
+logesh-madhan-a0a28a249
+)
 - 🐙 [GitHub: @Logeshmadhan-m](https://github.com/Logeshmadhan-m)
 
 ## ⚡ Fun Fact
