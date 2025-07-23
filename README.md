@@ -30,4 +30,4 @@
 - 🐙 [GitHub: @Logeshmadhan-m](https://github.com/Logeshmadhan-m)
 
 ## ⚡ Fun Fact
-I love solving problems with code, and I explain things to friends in simple Tanglish 😄
+I love solving problems with code, and I explain things to friends simply
